@@ -1,0 +1,155 @@
+
+
+body{
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.container{width: 90%;
+    height: 105vh;
+    border: 2px solid black;
+    box-shadow: 2px 2px 2px 2px black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   }
+    
+
+
+h1{
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 25px;
+color: #4D4F62;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+h2{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+    color: black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-weight:bold;
+
+
+
+}
+
+h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:10px;
+    color: #4D4F62;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-weight:bold;
+
+
+
+
+
+}
+
+
+
+
+.box1{
+   width: 350px;
+   height: 200px;
+ border-radius: 5%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   box-shadow: 2px 2px 2px black;
+background-color: white;
+border-top: 7px solid red;
+flex-direction: column;
+}
+
+#team{
+font-size: 20px;
+
+
+}
+
+#scan{
+    font-size: 15px;
+color: grey;
+flex-direction: column;
+
+}
+
+img{
+width: 40px;
+height: 40px;
+display: flex;
+
+}
+
+.boxes {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.middleBoxes {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.box2{
+    width: 350px;
+   height: 200px;
+ 
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   box-shadow: 2px 2px 2px black;
+background-color: white;
+border-top: 7px solid blue;
+flex-direction: column;
+border-radius: 5%;
+
+
+}
+
+
+.box3{
+    width: 350px;
+    height: 200px;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 2px 2px 2px black;
+ background-color: white;
+ border-top: 7px solid yellow;
+ flex-direction: column;
+border-radius: 5%;
+
+}
+
+.box4{
+    width: 350px;
+    height: 200px;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 2px 2px 2px black;
+ background-color: white;
+ border-top: 7px solid aqua;
+ flex-direction: column;
+ border-radius: 5%;
+ 
+}
+
+
